@@ -1,0 +1,16 @@
+/Users/I.Montoya/Desktop/Bootcamp/Practicas/Projects/EjercicioMartes2/EjercicioMartes2/bin/Debug/EjercicioMartes2.exe
+/Users/I.Montoya/Desktop/Bootcamp/Practicas/Projects/EjercicioMartes2/EjercicioMartes2/bin/Debug/EjercicioMartes2.pdb
+/Users/I.Montoya/Desktop/Bootcamp/Practicas/Projects/EjercicioMartes2/EjercicioMartes2/obj/x86/Debug/EjercicioMartes2.csproj.CoreCompileInputs.cache
+/Users/I.Montoya/Desktop/Bootcamp/Practicas/Projects/EjercicioMartes2/EjercicioMartes2/obj/x86/Debug/EjercicioMartes2.exe
+/Users/I.Montoya/Desktop/Bootcamp/Practicas/Projects/EjercicioMartes2/EjercicioMartes2/obj/x86/Debug/EjercicioMartes2.pdb
+/Users/I.Montoya/Desktop/Bootcamp/Practicas/Projects/ProyectoAgenda/EjercicioMartes2/obj/x86/Debug/EjercicioMartes2.csproj.CoreCompileInputs.cache
+/Users/I.Montoya/Desktop/Bootcamp/Practicas/Projects/ProyectoAgenda/EjercicioMartes2/obj/x86/Debug/EjercicioMartes2.exe
+/Users/I.Montoya/Desktop/Bootcamp/Practicas/Projects/ProyectoAgenda/EjercicioMartes2/obj/x86/Debug/EjercicioMartes2.pdb
+/Users/I.Montoya/Desktop/Bootcamp/Practicas/Projects/ProyectoAgenda/EjercicioMartes2/bin/Debug/EjercicioMartes2.exe
+/Users/I.Montoya/Desktop/Bootcamp/Practicas/Projects/ProyectoAgenda/EjercicioMartes2/bin/Debug/EjercicioMartes2.pdb
+/Applications/Varios/Bootcamp/Practicas/Projects/ProyectoAgenda/EjercicioMartes2/bin/Debug/EjercicioMartes2.exe
+/Applications/Varios/Bootcamp/Practicas/Projects/ProyectoAgenda/EjercicioMartes2/bin/Debug/EjercicioMartes2.pdb
+/Applications/Varios/Bootcamp/Practicas/Projects/ProyectoAgenda/EjercicioMartes2/obj/x86/Debug/EjercicioMartes2.csprojAssemblyReference.cache
+/Applications/Varios/Bootcamp/Practicas/Projects/ProyectoAgenda/EjercicioMartes2/obj/x86/Debug/EjercicioMartes2.csproj.CoreCompileInputs.cache
+/Applications/Varios/Bootcamp/Practicas/Projects/ProyectoAgenda/EjercicioMartes2/obj/x86/Debug/EjercicioMartes2.exe
+/Applications/Varios/Bootcamp/Practicas/Projects/ProyectoAgenda/EjercicioMartes2/obj/x86/Debug/EjercicioMartes2.pdb
